@@ -1,0 +1,19 @@
+{
+  "name": "Trump",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CMyEHxqEZViysBqUUEAmz4TQSXYTtX8vZLuRaNkqKARJ",
+        "share": 100
+      }
+    ]
+  }
+}

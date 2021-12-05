@@ -1,0 +1,19 @@
+{
+  "name": "Chipper",
+  "symbol": "",
+  "image": "4.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CMyEHxqEZViysBqUUEAmz4TQSXYTtX8vZLuRaNkqKARJ",
+        "share": 100
+      }
+    ]
+  }
+}

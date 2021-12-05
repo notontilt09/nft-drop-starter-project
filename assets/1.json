@@ -1,0 +1,19 @@
+{
+  "name": "Thumbs Up",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/gif"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CMyEHxqEZViysBqUUEAmz4TQSXYTtX8vZLuRaNkqKARJ",
+        "share": 100
+      }
+    ]
+  }
+}
